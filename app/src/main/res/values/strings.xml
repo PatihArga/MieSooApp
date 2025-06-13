@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MieSooApp</string>
+    <string name="miesoo">MieSo</string>
+    <string name="miesoo_logo">MieSo Logo</string>
+    <string name="mie_bakso_terenak_di_kota">Mie Bakso Terenak di Kota</string>
+    <string name="email_atau_no_hp">Email atau No. HP</string>
+    <string name="kata_sandi">Kata Sandi</string>
+    <string name="masuk">Masuk</string>
+    <string name="belum_punya_akun_daftar_di_sini">Belum punya akun? Daftar di sini</string>
+    <string name="logo_description">MieSo Logo</string>
+    <string name="tagline">Mie Bakso Terenak di Kota</string>
+    <string name="email_or_phone_label">Email atau No. HP</string>
+    <string name="hint_email_phone">Masukkan email atau nomor HP</string>
+    <string name="password_label">Kata Sandi</string>
+    <string name="hint_password">Masukkan kata sandi</string>
+    <string name="login_button_text">Masuk</string>
+    <string name="register_link_text">Belum punya akun? Daftar di sini</string>
+    <string name="welcome_greeting">Selamat Datang!</string>
+    <string name="mieso_slogan">di MieSo - Warung Mie Bakso</string>
+    <string name="cart_icon_description">Shopping Cart Icon</string>
+    <string name="profile_icon_description">Profile Icon</string>
+    <string name="location_icon_description">Location Icon</string>
+    <string name="address_text">Jl. Merdeka No. 123, Jakarta</string>
+    <string name="choose_order_type">Pilih Jenis Pesanan</string>
+    <string name="dine_in_icon_description">Dine In Icon</string>
+    <string name="dine_in_title">Makan di Tempat</string>
+    <string name="dine_in_description">Langsung nikmati</string>
+    <string name="delivery_icon_description">Delivery Icon</string>
+    <string name="delivery_title">Antar</string>
+    <string name="delivery_description">Diantar ke rumah</string>
+    <string name="pickup_icon_description">Pickup Icon</string>
+    <string name="pickup_title">Ambil Sendiri</string>
+    <string name="pickup_description">Siap dalam\n15 menit</string>
+    <string name="favorite_menu_title">Menu Favorit</string>
+    <string name="mies_bakso_special_image_description">Mie Bakso Special image</string>
+    <string name="mie_bakso_special_title">Mie Bakso Special</string>
+    <string name="mie_bakso_special_description">Mie dengan bakso jumbo dan pangsit</string>
+    <string name="mie_bakso_special_price">Rp 25.000</string>
+    <string name="bakso_urat_image_description">Bakso Urat image</string>
+    <string name="bakso_urat_title">Bakso Urat</string>
+    <string name="bakso_urat_description">Bakso kenyal dengan urat sapi</string>
+    <string name="bakso_urat_price">Rp 20.000</string>
+    <string name="view_full_menu_button">Lihat Menu Lengkap</string>
+    <string name="time_icon_description">Time Icon</string>
+    <string name="opening_hours">Jam Buka: 08:00 - 22:00</string>
+</resources>
